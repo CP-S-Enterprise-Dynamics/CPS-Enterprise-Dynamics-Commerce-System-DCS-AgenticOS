@@ -6,6 +6,9 @@
             "version": "3.11",
             "installTools": true
         },
+        "ghcr.io/wcgomes/devcontainer-features/agents-workspace:0": {
+            
+        },
         "ghcr.io/devcontainers/features/go:1": {
             "version": "1.24"
         },
